@@ -36,6 +36,7 @@ body {
   padding-left: 1.75rem;
   cursor: pointer;
   color: hsl(240, 100%, 5%);
+  transition: 100ms ease-in-out;
 }
 
 .menu-list li:hover {
@@ -92,6 +93,7 @@ body {
   padding: 1rem;
   width: 50%;
   cursor: pointer;
+  transition: 200ms ease-in-out;
 }
 
 .read-more-btn:hover {
@@ -187,6 +189,7 @@ body {
 .new-news-title {
   color: hsl(0, 100%, 100%);
   cursor: pointer;
+  transition: 100ms ease-in-out;
 }
 
 .new-news-title:hover {
@@ -208,6 +211,7 @@ body {
   font-weight: 800;
   color: hsl(240, 100%, 5%);
   cursor: pointer;
+  transition: 100ms ease-in-out;
 }
 
 .news-bottom-title:hover {
